@@ -1,0 +1,1 @@
+gcc -std=c99 -Wall -Wpedantic -o Bombrun.exe Bombrun.c
